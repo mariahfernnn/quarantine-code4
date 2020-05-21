@@ -78,3 +78,8 @@ nav a:hover {
   position: relative;
   bottom: 10px;
 }
+
+.move-up {
+  position: relative;
+  bottom: 10px;
+}
