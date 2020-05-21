@@ -79,7 +79,16 @@ nav a:hover {
   bottom: 10px;
 }
 
-.move-up {
+.kitten-img {
   position: relative;
-  bottom: 10px;
+}
+
+.img-container {
+  background: red;
+  width: 200px;
+  height: 300px;
+}
+
+.img-caption {
+  
 }
