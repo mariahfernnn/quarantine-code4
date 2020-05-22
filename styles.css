@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-h1 {
+.name {
   color: white;
   font-size: 26px;
   font-family: Arial, Arial, Helvetica, sans-serif;
@@ -19,8 +19,11 @@ p em {
   color: yellow;
 }
 
-#header {
+header {
   background-color: indigo;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
 }
 
 .status-update {
